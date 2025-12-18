@@ -1,0 +1,9 @@
+:HL["/_next/static/chunks/8a80e7184ad3a13f.css","style"]
+:HL["/_next/static/chunks/39404bf68ffe695b.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/elegant-luxury-perfume-bottle-on-minimalist-backgr.jpg","image"]
+:HL["/elegant-womens-perfume-bottle-feminine.jpg","image"]
+:HL["/luxury-mens-cologne-bottle-masculine.jpg","image"]
+:HL["/modern-unisex-perfume-bottle-minimalist.jpg","image"]
+0:{"buildId":"gZyCpgA65qdPz28KY1Uhy","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
